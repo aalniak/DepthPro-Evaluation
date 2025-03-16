@@ -1,4 +1,4 @@
-# DepthPRo Metric Depth Evaluation Benchmark on Several Datasets
+# DepthPro Metric Depth Evaluation Benchmark on Several Datasets
 This forked repository contains scripts formatted as test_****.sh, which downloads and runs the model on the dataset. For the curent version, NYU-V2 Depth and KITTI Eigen Split Datasets are available for evaluation. 
 
 ## Getting Ready
