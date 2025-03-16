@@ -16,7 +16,7 @@ Equivalently, user may run the python scripts all by themselves as well.
 
 
 ## About the code
-Once you run the script, it will try to download the respective dataset under /home/{your_username}/nyu_cache, or a fancy-pathed cache file under kagglehub. Whenever you use any of my scripts once again, it will refer to the previously downloaded dataset.
+Once you run the script, it will try to download the respective dataset under /home/{your_username}/nyu_cache for NYUV2, or a fancy-pathed cache file under kagglehub for KITTI. Whenever you use any of my scripts once again, it will refer to the previously downloaded dataset.
 
 It is further possible to change the dataset sampling for NYUV2 by:  
 ```python
